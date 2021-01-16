@@ -1,0 +1,132 @@
+ {
+ "matches": [
+    {
+      "unique_id": 1059382,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Boost Region",
+      "team-1": "Amo Region",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1059381,
+      "date": "2016-11-19T00:00:00.000Z",
+      "team-2": "Mis Ainak Region",
+      "team-1": "Band-e-Amir Region",
+      "matchStarted": true,
+      "squad": true
+    },
+    {
+      "unique_id": 1019993,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Pakistan",
+      "team-1": "New Zealand",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1034811,
+      "date": "2016-11-19T00:00:00.000Z",
+      "team-2": "England",
+      "team-1": "India",
+      "matchStarted": true,
+      "squad": true
+    },
+    {
+      "unique_id": 1036383,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Victoria",
+      "team-1": "New South Wales",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1036385,
+      "date": "2016-11-19T00:00:00.000Z",
+      "team-2": "South Australia",
+      "team-1": "Queensland",
+      "matchStarted": true,
+      "squad": true
+    },
+    {
+      "unique_id": 1036387,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Tasmania",
+      "team-1": "Western Australia",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1024761,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": false,
+      "team-2": "KwaZulu-Natal",
+      "team-1": "South Western Districts",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1024759,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": false,
+      "team-2": "North West",
+      "team-1": "Namibia",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1063304,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Guyana",
+      "team-1": "Leeward Islands",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1063303,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Barbados",
+      "team-1": "Trinidad & Tobago",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1063302,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": false,
+      "team-2": "Windward Islands",
+      "team-1": "Jamaica",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1059712,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": true,
+      "team-2": "West Indies",
+      "team-1": "Zimbabwe",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1050613,
+      "date": "2016-11-19T00:00:00.000Z",
+      "squad": true,
+      "team-2": "Pakistan Women",
+      "team-1": "New Zealand Women",
+      "matchStarted": true
+    },
+    {
+      "unique_id": 1063067,
+      "date": "2016-11-19T00:00:00.000Z",
+      "team-2": "Khulna Titans",
+      "team-1": "Dhaka Dynamites",
+      "matchStarted": true,
+      "squad": true
+    },
+    {
+      "unique_id": 1063068,
+      "date": "2016-11-19T00:00:00.000Z",
+      "team-2": "Rajshahi Kings",
+      "team-1": "Comilla Victorians",
+      "matchStarted": false,
+      "squad": true
+    }
+]
+ }
